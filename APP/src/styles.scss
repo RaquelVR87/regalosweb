@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+.bg-image{
+    background: url('/assets/images/background.jpg') no-repeat center center fixed; 
+    background-size: cover;
+    height: 100vh;
+}
+
+body{
+    font-family: "Lucida Console";
+}
